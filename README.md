@@ -21,3 +21,6 @@ Hello World!
 5. Отправляем все изменения на github с помощью (push -u origin);
 
 6. Далее в окне на gitHub появляется возможность отправить pull request
+
+
+Added instruction
